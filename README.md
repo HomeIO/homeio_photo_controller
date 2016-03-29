@@ -10,3 +10,4 @@ TODO:
 * analyze maximum power by performing series of measurements of voltage and current
 * 2 PWMs: charging supercapacitor/battery, heater resistor
 * charge capacitor/batteries till set voltage (voltage should be changeable remotely)
+* optional: third PWM to charge capacitor/batteries to charge them, something like online hybrid UPS
