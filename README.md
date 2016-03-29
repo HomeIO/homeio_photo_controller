@@ -11,3 +11,10 @@ TODO:
 * 2 PWMs: charging supercapacitor/battery, heater resistor
 * charge capacitor/batteries till set voltage (voltage should be changeable remotely)
 * optional: third PWM to charge capacitor/batteries to charge them, something like online hybrid UPS
+
+buy:
+
+* 1 MCU: AVR, 3 PWM (hardware preferred), PTH connectors
+* 100V capacitor
+* >50F 18V capacitor
+* 3x 0.1 - 0.2 Ohm resistor or current sensor
