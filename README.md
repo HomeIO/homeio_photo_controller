@@ -14,7 +14,8 @@ TODO:
 
 buy:
 
-* 1 MCU: AVR, 3 PWM (hardware preferred), PTH connectors
+* 1 MCU: AVR, 3 PWM (hardware preferred), PTH/PDIP connectors
 * 100V capacitor
 * >50F 18V capacitor
 * 3x 0.1 - 0.2 Ohm resistor or current sensor
+* PWM NMOS driver
