@@ -14,8 +14,18 @@ TODO:
 
 buy:
 
-* 1 MCU: AVR, 3 PWM (hardware preferred), PTH/PDIP connectors
-* 100V capacitor
-* >50F 18V capacitor
-* 3x 0.1 - 0.2 Ohm resistor or current sensor
-* PWM NMOS driver
+[ ] 2x 5A fuse + casing
+[ ] 2x P6KE36CA - Transient Voltage Suppressors 600W 36V 
+[ ] 1x 100uF
+[ ] 2x 0.1uF (5V)
+[ ] 1x 10uF (5V)
+[x] 1 MCU - arduino micro
+
+
+check/buy
+[ ] 200 Ohm
+[ ] 20k Ohm
+[ ] 100k Ohm
+[ ] 470k Ohm
+[ ] 2x IN4148
+[ ] 4x IRFZ44N
